@@ -3,7 +3,7 @@ This project simulates a real-world e-commerce analytics scenario, where raw tra
 
 The goal is to analyze sales performance, customer behavior, profitability, and operational issues (returns, cancellations, payment failures), exactly the kind of analysis expected from a Data Analyst in an e-commerce or product-based company.
 
-***Dataset Description***
+### Dataset Description
 The analysis is based on a relational e-commerce dataset (100+ rows) consisting of multiple interconnected tables:
 **Customers** – demographics, location, signup behavior
 **Products** – category, pricing, and cost structure
