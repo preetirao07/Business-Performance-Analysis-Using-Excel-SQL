@@ -5,24 +5,30 @@ The goal is to analyze sales performance, customer behavior, profitability, and 
 
 ### Dataset Description
 The analysis is based on a relational e-commerce dataset (100+ rows) consisting of multiple interconnected tables:
+
 **Customers** – demographics, location, signup behavior
+
 **Products** – category, pricing, and cost structure
+
 **Orders** – order lifecycle and fulfillment status
+
 **Order Items** – line-level sales and discounts
+
 **Payments** – payment methods and success/failure status
 
-***Tools & Skills Used***
-Excel
+### Tools & Skills
+
+**Excel**
 - Data cleaning & validation
 - Pivot Tables & KPI calculations
 - Revenue, AOV, and trend analysis
 
-SQL
+**SQL**
 - Joins & CTEs
 - Aggregations & window functions
 - Business metric calculations
 
-Analytics Skills
+**Analytics Skills**
 - KPI definition
 - Funnel & cohort thinking
 - Root-cause analysis
