@@ -33,3 +33,16 @@ The analysis is based on a relational e-commerce dataset (100+ rows) consisting 
 - Funnel & cohort thinking
 - Root-cause analysis
 - Business recommendations
+
+### Key Metrics Analyzed
+- Gross Merchandise Value (GMV)
+- Revenue & Profit Margin
+- Average Order Value (AOV)
+- Repeat Customer Rate
+- Cancellation & Return Rate
+
+### Insights & Outcomes
+- Identified high-return categories impacting profitability
+- Highlighted negative-margin products
+- Compared customer behavior across channels
+- Provided data-backed recommendations to improve revenue and retention
